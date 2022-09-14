@@ -4,7 +4,7 @@ import display from "../img/display.jpg";
 function Header() {
   return (
     <header>
-      <img src={display} />
+      <img src={display}  alt="Bharvi Sampat"/>
       <div className="name">
         <h1>Bharvi Sampat</h1>
         <h4>React Developer</h4>

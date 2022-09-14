@@ -12,10 +12,10 @@ function Header() {
       </div>
       <div className="button">
         <button className="email">
-          <i class="fa-solid fa-envelope"></i>Email
+          <i className="fa-solid fa-envelope"></i>Email
         </button>
         <button className="linkedin">
-          <i class="fa-brands fa-linkedin"></i>LinkedIn
+          <i className="fa-brands fa-linkedin"></i>LinkedIn
         </button>
       </div>
     </header>
